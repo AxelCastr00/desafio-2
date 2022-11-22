@@ -1,0 +1,29 @@
+.pepe {
+    background-color: red;
+    width: 100px;
+    display: inline-block;
+    margin: 20px;
+    padding: 20px;
+    color: white;
+    text-transform: uppercase;
+}
+
+.pepe2 {
+    background-color: yellow;
+    width: 100px;
+    display: inline-block;
+    padding: 20px;
+    margin: 20px;
+    color: white;
+    text-transform: uppercase;
+}
+
+.pepe3 {
+    background-color: blue;
+    width: 100px;
+    display: inline-block;
+    padding: 20px;
+    margin: 20px;
+    color: white;
+    text-transform: uppercase;
+}
